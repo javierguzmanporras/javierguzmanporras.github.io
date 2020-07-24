@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Hacking4Hackers"
+title_separator          : "-"
+name                     : "Hacking4Hackers"
+description              : "Blog sobre ciberseguridad"
+url                      : "https://javierguzmanporras.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
